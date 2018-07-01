@@ -1,0 +1,2 @@
+# shardredis
+add readme
